@@ -12,5 +12,7 @@ namespace WebAPI_Fairy.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<WebAPI_Fairy.Models.Fairy> Fairies { get; set; }
     }
 }

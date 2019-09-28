@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI-Fairy", "WebAPI-Fairy\WebAPI-Fairy.csproj", "{85820043-F177-4F9B-866D-3041416E06CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85820043-F177-4F9B-866D-3041416E06CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85820043-F177-4F9B-866D-3041416E06CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85820043-F177-4F9B-866D-3041416E06CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85820043-F177-4F9B-866D-3041416E06CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999AE088-4E5C-4580-9FC1-5244107068D6}
+	EndGlobalSection
+EndGlobal
